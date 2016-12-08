@@ -1,0 +1,1 @@
+[28/Jan/2016:09:30:58] (BARTOZ-SMSSHOP) Nick[tanamiso]-Kod[b8d6e0d3]-ID_ITEM[1]-NUMBER[7055]-CMD[say {GRACZ} kupil DIAMENTY !]
